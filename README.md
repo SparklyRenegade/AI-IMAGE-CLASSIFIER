@@ -6,9 +6,9 @@ This project focuses on web scraping, deep learning, and application deployment.
 
 
 **Goals**
-Collect Images: Use Selenium to scrape images from the internet.
+Collect Images: Used Selenium to scrape images from the internet.
 
-Build CNN Model: Develop a CNN-based image classifier using TensorFlow.
+Build CNN Model: A CNN-based image classifier model has been developed using TensorFlow.
 
 Integrate Model: Deploy the model within a web application.
 
