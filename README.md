@@ -14,9 +14,12 @@ Integrate Model: Deploy the model within a web application.
 
 Web App: Used Streamlit here in this project.
 
-Tech Stack / Frameworks
+**Tech Stack / Frameworks**
+
 Web Scraping: Selenium
+
 Machine Learning: TensorFlow
+
 App Development: Streamlit (for web)
 
 #streamlit:
